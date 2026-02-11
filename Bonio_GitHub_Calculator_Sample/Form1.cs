@@ -16,5 +16,10 @@ namespace Bonio_GitHub_Calculator_Sample
         {
             InitializeComponent();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
